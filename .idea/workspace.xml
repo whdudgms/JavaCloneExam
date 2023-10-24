@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="TvTest4 객체 배열관련 실행파일 작성">
-      <change afterPath="$PROJECT_DIR$/src/ch06/CardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/MyMathTest.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="static 참조변수 매개변수에 따른 인자의 자동형변환">
+      <change afterPath="$PROJECT_DIR$/src/ch06/CallStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/CallStackTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/PrimitiveParamEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +97,7 @@
       <updated>1694861014866</updated>
       <workItem from="1694861015854" duration="3817000" />
       <workItem from="1697762282680" duration="618000" />
-      <workItem from="1697766906815" duration="37696000" />
+      <workItem from="1697766906815" duration="38805000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -130,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698115826464</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="static 참조변수 매개변수에 따른 인자의 자동형변환">
+      <option name="closed" value="true" />
+      <created>1698116922606</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698116922606</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +160,7 @@
     <MESSAGE value="등록" />
     <MESSAGE value="ㄴㅇㄹ" />
     <MESSAGE value="TvTest4 객체 배열관련 실행파일 작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="TvTest4 객체 배열관련 실행파일 작성" />
+    <MESSAGE value="static 참조변수 매개변수에 따른 인자의 자동형변환" />
+    <option name="LAST_COMMIT_MESSAGE" value="static 참조변수 매개변수에 따른 인자의 자동형변환" />
   </component>
 </project>
