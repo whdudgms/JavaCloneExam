@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="인자로 전달된 값">
-      <change afterPath="$PROJECT_DIR$/src/ch01/q.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/MethodTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/MethodTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ReferenceParamEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ReferenceParamEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ReferenceParamEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ReferenceReturnEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ReturnTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/ch06/Exercise6_2.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="10/24,10/25 공부한 것">
+      <change afterPath="$PROJECT_DIR$/src/ch06/VarArgsEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CloneAndExam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CloneAndExam.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exam/ch04/Exercise4_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exam/ch04/Exercise4_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/CallStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/CallStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/MethodTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/MethodTest3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +123,7 @@
       <workItem from="1694861015854" duration="3817000" />
       <workItem from="1697762282680" duration="618000" />
       <workItem from="1697766906815" duration="42115000" />
-      <workItem from="1698142143512" duration="15539000" />
+      <workItem from="1698142143512" duration="20692000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -182,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698117863619</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="10/24,10/25 공부한 것">
+      <option name="closed" value="true" />
+      <created>1698221656726</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698221656726</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +204,7 @@
     <MESSAGE value="TvTest4 객체 배열관련 실행파일 작성" />
     <MESSAGE value="static 참조변수 매개변수에 따른 인자의 자동형변환" />
     <MESSAGE value="인자로 전달된 값" />
-    <option name="LAST_COMMIT_MESSAGE" value="인자로 전달된 값" />
+    <MESSAGE value="10/24,10/25 공부한 것" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/24,10/25 공부한 것" />
   </component>
 </project>
