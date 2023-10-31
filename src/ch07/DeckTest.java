@@ -1,18 +1,34 @@
 package ch07;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class DeckTest {
     public static void main(String[] args){
 
+        // 숫자 : NO PAIR,ONE,TWO,THREE,FullHOUSE,STRAIGHT
+        // 모양 : FLUSH(이 경우 중복은 없다. +=STRAIGHT or )
+        System.out.println("원한는 타입을 입력하세요.");
+        System.out.println("모양 : FLUSH");
+        System.out.println("숫자 : NOPAIR,ONE,TWO,THREE,FullHOUSE,STRAIGHT");
+        System.out.println("  검증 순서 : 모양 >> 숫자      입력 : 모양 >> 숫자  ");
+        System.out.println("모양 : FLUSH일 경우 +=STRAIGHT or +=NOPAIR ");
+
+
+        Scanner sc = new Scanner(System.in);
+        String src = sc.next();
+        sc.close();
         while(true) {
             //덱을 섞은 다음에 Card배열에 5개 저장.
+
+
             Deck d = new Deck();
             d.shuffle();
             Card c[] = new Card[5];
             for (int i = 0; i < c.length; i++) {
                 c[i] = d.pick(i);
             }
+
 
             System.out.println(Deck.cardOpen(c));
 
@@ -21,7 +37,7 @@ public class DeckTest {
             System.out.println(c[2]);
             System.out.println(c[3]);
             System.out.println(c[4]);
-            if(Deck.cardOpen(c).equals("THREE"))break;
+            if(Deck.cardOpen(c).equals(src))break;
         }
     }
 }
@@ -97,7 +113,7 @@ class Deck{
             return result+= "ONE";
         }
 
-        return result += "NO PAIR";
+        return result += "NOPAIR";
     }
 }
 
