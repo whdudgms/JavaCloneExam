@@ -1,4 +1,4 @@
-package ch01;
+package aafree;
 
 public class q {
     public static void main(String[] args) {

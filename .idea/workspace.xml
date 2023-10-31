@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="저장!">
-      <change afterPath="$PROJECT_DIR$/src/ch06/BlookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/CarTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/CarTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/DocumentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/StaticBlockTest.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="10.27일자 오전 공부">
+      <change afterPath="$PROJECT_DIR$/src/aafree/try123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/CaptionTvTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/DeckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/DrawShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/PointTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/SuperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/SuperTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/TVCR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aafree/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/q.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aafree/q.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aafree/q2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,27 +64,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "/Users/master/IdeaProjects/CloneAndExam/src/Main.java",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/master/IdeaProjects/CloneAndExam/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -93,7 +98,8 @@
       <workItem from="1697766906815" duration="42115000" />
       <workItem from="1698142143512" duration="25081000" />
       <workItem from="1698285895370" duration="16612000" />
-      <workItem from="1698373894260" duration="3459000" />
+      <workItem from="1698373894260" duration="15083000" />
+      <workItem from="1698715913795" duration="3655000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -175,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698373948252</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="10.27일자 오전 공부">
+      <option name="closed" value="true" />
+      <created>1698377425154</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698377425154</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +216,7 @@
     <MESSAGE value="변경사항 저장" />
     <MESSAGE value="6-23까지함. 내일 가능하면 연습문제 코드작성하면 좋을 것 같다." />
     <MESSAGE value="저장!" />
-    <option name="LAST_COMMIT_MESSAGE" value="저장!" />
+    <MESSAGE value="10.27일자 오전 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.27일자 오전 공부" />
   </component>
 </project>
