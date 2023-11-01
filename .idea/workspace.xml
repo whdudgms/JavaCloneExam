@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="10.31일자 저녁 전 커밋">
-      <change afterPath="$PROJECT_DIR$/src/ch07/BindingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/BindingTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/BindingTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/CastingTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/CastingTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/InstanceofTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/PolyArgumentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/PolyArgumentTest2.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="11.01일자 아침,점심 복습커밋">
+      <change afterPath="$PROJECT_DIR$/src/ch07/PolyArgumentTest3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,28 +53,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/master/IdeaProjects/CloneAndExam/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/master/IdeaProjects/CloneAndExam/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,7 +93,7 @@
       <workItem from="1698285895370" duration="16612000" />
       <workItem from="1698373894260" duration="15083000" />
       <workItem from="1698715913795" duration="9022000" />
-      <workItem from="1698800643746" duration="4487000" />
+      <workItem from="1698800643746" duration="5127000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -211,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698740968371</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="11.01일자 아침,점심 복습커밋">
+      <option name="closed" value="true" />
+      <created>1698815793202</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698815793202</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +246,7 @@
     <MESSAGE value="10.31일자 오전 공부" />
     <MESSAGE value="10.31일자 점심먹고 공부" />
     <MESSAGE value="10.31일자 저녁 전 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.31일자 저녁 전 커밋" />
+    <MESSAGE value="11.01일자 아침,점심 복습커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.01일자 아침,점심 복습커밋" />
   </component>
 </project>
