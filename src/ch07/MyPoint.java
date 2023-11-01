@@ -23,13 +23,12 @@ class Point1{
         return  Math.sqrt((p1.x - p2.x) * (p1.x - p2.x) *1.0 + (p1.y - p2.y)*(p1.y - p2.y));
     }
 
-    double getDistance(Point1 p2){
-        return  Math.sqrt((this.x - p2.x) * (this.x - p2.x) + (this.y - p2.y)*(this.y - p2.y));
+    double getDistance(Point1 p){
+        return  Math.sqrt((this.x - p.x) * (this.x - p.x) + (this.y - p.y)*(this.y - p.y));
     }
 
     //
     boolean equals(Point1 p){
-        System.out.println(p.getClass().getName() +"한번 체크");
         if("ch07.Point1"!=p.getClass().getName()) {
             return false;
         }
@@ -56,6 +55,8 @@ class  Point3D extends Point1{
     public String toString(){
         return "x의 값: "+ x+"  y의 값: "+ y+"  z의 값: "+z;
     }
+
+
 }
 
 class PointTest1{
