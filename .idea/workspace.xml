@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="10.31일자 오전 공부">
-      <change afterPath="$PROJECT_DIR$/src/ch07/FinalCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/ImportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/StaticImportEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/TimeTest.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="10.31일자 저녁 전 커밋">
+      <change afterPath="$PROJECT_DIR$/src/ch07/BindingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/BindingTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/BindingTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/CastingTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/CastingTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/InstanceofTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/PolyArgumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/PolyArgumentTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch07/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/DeckTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,28 +60,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/master/IdeaProjects/CloneAndExam/src/Main.java",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/master/IdeaProjects/CloneAndExam/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -93,7 +96,8 @@
       <workItem from="1698142143512" duration="25081000" />
       <workItem from="1698285895370" duration="16612000" />
       <workItem from="1698373894260" duration="15083000" />
-      <workItem from="1698715913795" duration="6998000" />
+      <workItem from="1698715913795" duration="9022000" />
+      <workItem from="1698800643746" duration="4487000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -191,7 +195,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698727877991</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="10.31일자 점심먹고 공부">
+      <option name="closed" value="true" />
+      <created>1698740724689</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698740724689</updated>
+    </task>
+    <task id="LOCAL-00014" summary="10.31일자 저녁 전 커밋">
+      <option name="closed" value="true" />
+      <created>1698740968371</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698740968371</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +240,8 @@
     <MESSAGE value="저장!" />
     <MESSAGE value="10.27일자 오전 공부" />
     <MESSAGE value="10.31일자 오전 공부" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.31일자 오전 공부" />
+    <MESSAGE value="10.31일자 점심먹고 공부" />
+    <MESSAGE value="10.31일자 저녁 전 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.31일자 저녁 전 커밋" />
   </component>
 </project>
