@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="오전 완전 다 함">
-      <change afterPath="$PROJECT_DIR$/src/ch07/FighterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/ParserTest.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="오후 공부 일부 일단 커밋 푸시">
+      <change afterPath="$PROJECT_DIR$/src/ch07/RepairableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +94,7 @@
       <workItem from="1698373894260" duration="15083000" />
       <workItem from="1698715913795" duration="9022000" />
       <workItem from="1698800643746" duration="12605000" />
-      <workItem from="1698833186986" duration="2655000" />
+      <workItem from="1698833186986" duration="3481000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -241,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698833199413</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="오후 공부 일부 일단 커밋 푸시">
+      <option name="closed" value="true" />
+      <created>1698914702673</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1698914702673</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +281,7 @@
     <MESSAGE value="10.31일자 저녁 전 커밋" />
     <MESSAGE value="11.01일자 아침,점심 복습커밋" />
     <MESSAGE value="오전 완전 다 함" />
-    <option name="LAST_COMMIT_MESSAGE" value="오전 완전 다 함" />
+    <MESSAGE value="오후 공부 일부 일단 커밋 푸시" />
+    <option name="LAST_COMMIT_MESSAGE" value="오후 공부 일부 일단 커밋 푸시" />
   </component>
 </project>
