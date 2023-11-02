@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="오후 공부 일부 일단 커밋 푸시">
-      <change afterPath="$PROJECT_DIR$/src/ch07/RepairableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/DefaultMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/InterfaceTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/InterfaceTest3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +97,7 @@
       <workItem from="1698373894260" duration="15083000" />
       <workItem from="1698715913795" duration="9022000" />
       <workItem from="1698800643746" duration="12605000" />
-      <workItem from="1698833186986" duration="3481000" />
+      <workItem from="1698833186986" duration="4951000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -248,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698914702673</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="오후 공부 일부 일단 커밋 푸시">
+      <option name="closed" value="true" />
+      <created>1698915674207</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1698915674207</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
