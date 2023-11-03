@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="Inner 클래스">
-      <change afterPath="$PROJECT_DIR$/src/ch07/InnerEx2.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="외부 클래스에서 내부 클래스로 접근">
+      <change afterPath="$PROJECT_DIR$/src/ch07/InnerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/InnerEx4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/InnerEx5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/InnerEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/InnerEx7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/InnerEx8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +99,7 @@
       <workItem from="1698373894260" duration="15083000" />
       <workItem from="1698715913795" duration="9022000" />
       <workItem from="1698800643746" duration="12605000" />
-      <workItem from="1698833186986" duration="8452000" />
+      <workItem from="1698833186986" duration="9505000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -280,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698977523473</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="외부 클래스에서 내부 클래스로 접근">
+      <option name="closed" value="true" />
+      <created>1698980109073</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1698980109073</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +330,7 @@
     <MESSAGE value="인터페이스와 다형성, default,static 메서드 관련 공부 내용" />
     <MESSAGE value="간단하게 공부한 것" />
     <MESSAGE value="Inner 클래스" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inner 클래스" />
+    <MESSAGE value="외부 클래스에서 내부 클래스로 접근" />
+    <option name="LAST_COMMIT_MESSAGE" value="외부 클래스에서 내부 클래스로 접근" />
   </component>
 </project>
