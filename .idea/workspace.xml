@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="Exception에 대해서 공부">
-      <change afterPath="$PROJECT_DIR$/src/ch08/NewExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/TryWithResourceEx.java" afterDir="false" />
-    </list>
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="연결된 예외를 사용하기 위해 &#10;예외.initCause(예외2)를 사용 &#10;예외2를 예외의 원인으로 등록" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +95,7 @@
       <workItem from="1698981532866" duration="943000" />
       <workItem from="1699257218801" duration="1328000" />
       <workItem from="1699334957161" duration="2908000" />
+      <workItem from="1699340863091" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -339,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699337619173</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="연결된 예외를 사용하기 위해 &#10;예외.initCause(예외2)를 사용 &#10;예외2를 예외의 원인으로 등록">
+      <option name="closed" value="true" />
+      <created>1699341079190</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1699341079190</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,7 +363,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ㄴㅇㄹ" />
     <MESSAGE value="TvTest4 객체 배열관련 실행파일 작성" />
     <MESSAGE value="static 참조변수 매개변수에 따른 인자의 자동형변환" />
     <MESSAGE value="인자로 전달된 값" />
@@ -382,6 +387,7 @@
     <MESSAGE value="exception예외 대한 설명" />
     <MESSAGE value="RuntimeException예외들에 대한 설명" />
     <MESSAGE value="Exception에 대해서 공부" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception에 대해서 공부" />
+    <MESSAGE value="연결된 예외를 사용하기 위해 &#10;예외.initCause(예외2)를 사용 &#10;예외2를 예외의 원인으로 등록" />
+    <option name="LAST_COMMIT_MESSAGE" value="연결된 예외를 사용하기 위해 &#10;예외.initCause(예외2)를 사용 &#10;예외2를 예외의 원인으로 등록" />
   </component>
 </project>
