@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="연결된 예외를 사용하기 위해 &#10;예외.initCause(예외2)를 사용 &#10;예외2를 예외의 원인으로 등록" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="&#10;Java.lang에 있는 클래스와 메서드">
+      <change afterPath="$PROJECT_DIR$/src/ch09/CardToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/CardToString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/CloneEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/CloneEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/EqualsEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/HashCodeEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +103,7 @@
       <workItem from="1698981532866" duration="943000" />
       <workItem from="1699257218801" duration="1328000" />
       <workItem from="1699334957161" duration="2908000" />
-      <workItem from="1699340863091" duration="814000" />
+      <workItem from="1699340863091" duration="2644000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -345,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699341079190</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="&#10;Java.lang에 있는 클래스와 메서드">
+      <option name="closed" value="true" />
+      <created>1699344642260</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1699344642260</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,7 +379,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TvTest4 객체 배열관련 실행파일 작성" />
     <MESSAGE value="static 참조변수 매개변수에 따른 인자의 자동형변환" />
     <MESSAGE value="인자로 전달된 값" />
     <MESSAGE value="10/24,10/25 공부한 것" />
@@ -388,6 +403,7 @@
     <MESSAGE value="RuntimeException예외들에 대한 설명" />
     <MESSAGE value="Exception에 대해서 공부" />
     <MESSAGE value="연결된 예외를 사용하기 위해 &#10;예외.initCause(예외2)를 사용 &#10;예외2를 예외의 원인으로 등록" />
-    <option name="LAST_COMMIT_MESSAGE" value="연결된 예외를 사용하기 위해 &#10;예외.initCause(예외2)를 사용 &#10;예외2를 예외의 원인으로 등록" />
+    <MESSAGE value="&#10;Java.lang에 있는 클래스와 메서드" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Java.lang에 있는 클래스와 메서드" />
   </component>
 </project>
