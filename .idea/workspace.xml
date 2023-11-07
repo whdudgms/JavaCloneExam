@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="내부 클래스 + 익명 클래스">
-      <change afterPath="$PROJECT_DIR$/src/ch08/ExceptionEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/ExceptionEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/ExceptionEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/ExceptionEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/ExceptionEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/ExceptionEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/ExceptionEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/ExceptionEx8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aafree/try123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aafree/try123.java" afterDir="false" />
-    </list>
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="예외처리에 대한 공부" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +93,7 @@
       <workItem from="1698800643746" duration="12605000" />
       <workItem from="1698833186986" duration="9772000" />
       <workItem from="1698981532866" duration="943000" />
-      <workItem from="1699257218801" duration="1012000" />
+      <workItem from="1699257218801" duration="1328000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -306,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698981201901</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="예외처리에 대한 공부">
+      <option name="closed" value="true" />
+      <created>1699258590328</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1699258590328</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,6 +342,7 @@
     <MESSAGE value="Inner 클래스" />
     <MESSAGE value="외부 클래스에서 내부 클래스로 접근" />
     <MESSAGE value="내부 클래스 + 익명 클래스" />
-    <option name="LAST_COMMIT_MESSAGE" value="내부 클래스 + 익명 클래스" />
+    <MESSAGE value="예외처리에 대한 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="예외처리에 대한 공부" />
   </component>
 </project>
