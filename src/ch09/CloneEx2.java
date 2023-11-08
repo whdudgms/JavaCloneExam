@@ -5,10 +5,10 @@ import java.util.Arrays;
 
 public class CloneEx2 {
     public static void main(String[] args){
-        int[] arr = {1,2,3,4,5};
+        Integer[] arr = {new Integer(1),new Integer(2),new Integer(3),new Integer(4),new Integer(5)};
 
-        int[] arrClone = arr.clone();
-        arrClone[0] = 6;
+        Integer[] arrClone = arr.clone();
+        arrClone[0] = new Integer(6);
 
         System.out.println(Arrays.toString(arr));
         System.out.println(Arrays.toString(arrClone));

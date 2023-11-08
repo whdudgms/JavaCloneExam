@@ -1,5 +1,7 @@
 package ch09;
 
+import java.util.Arrays;
+
 // Cloneable 구현
 class Point implements Cloneable{
     int x,y;
@@ -24,8 +26,23 @@ class Point implements Cloneable{
 }
 public class CloneEx1 {
     public static void main(String[] args){
+
+        int[] uuu = {1,2,3,4};
+        int[] zzz = uuu.clone();
+
+        System.out.println(Arrays.toString(uuu));
+        System.out.println(Arrays.toString(zzz));
+
+
+        zzz[0] = 22; // 복사해서 받은 객체 변경
+
+        System.out.println(Arrays.toString(uuu));
+        System.out.println(Arrays.toString(zzz)); // 배열의 복사도 깊은 복사
+
+
         Point original = new Point(3,5);
         Point copy = (Point)original.clone();
+        copy.x = 15; // 깊은 복사가 된 것이다.
         System.out.println(original);
 
         System.out.println(copy);
