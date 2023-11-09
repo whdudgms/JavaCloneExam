@@ -3,10 +3,10 @@ package ch09;
 import java.util.Arrays;
 
 // Cloneable 구현
-class Point implements Cloneable{
+class point1 implements Cloneable{
     int x,y;
 
-    Point(int x ,int y){
+    point1(int x ,int y){
         this.x = x;
         this.y = y;
     }
@@ -40,8 +40,8 @@ public class CloneEx1 {
         System.out.println(Arrays.toString(zzz)); // 배열의 복사도 깊은 복사
 
 
-        Point original = new Point(3,5);
-        Point copy = (Point)original.clone();
+        point1 original = new point1(3,5);
+        point1 copy = (point1)original.clone();
         copy.x = 15; // 깊은 복사가 된 것이다.
         System.out.println(original);
 
