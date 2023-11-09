@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="변경사항 커밋 푸시">
-      <change afterPath="$PROJECT_DIR$/src/ch09/ClassEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/ShallowDeppCopy.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="얕은 복사 깊은 복사 Class객체">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/EqualsEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/EqualsEx1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/EqualsEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/EqualsEx2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +118,7 @@
       <workItem from="1699257218801" duration="1328000" />
       <workItem from="1699334957161" duration="2908000" />
       <workItem from="1699340863091" duration="9829000" />
-      <workItem from="1699494254082" duration="2001000" />
+      <workItem from="1699494254082" duration="2392000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -396,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699446850499</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="얕은 복사 깊은 복사 Class객체">
+      <option name="closed" value="true" />
+      <created>1699500071685</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1699500071685</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +418,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="인자로 전달된 값" />
     <MESSAGE value="10/24,10/25 공부한 것" />
     <MESSAGE value="변경사항 저장" />
     <MESSAGE value="6-23까지함. 내일 가능하면 연습문제 코드작성하면 좋을 것 같다." />
@@ -439,6 +442,7 @@
     <MESSAGE value="연결된 예외를 사용하기 위해 &#10;예외.initCause(예외2)를 사용 &#10;예외2를 예외의 원인으로 등록" />
     <MESSAGE value="&#10;Java.lang에 있는 클래스와 메서드" />
     <MESSAGE value="변경사항 커밋 푸시" />
-    <option name="LAST_COMMIT_MESSAGE" value="변경사항 커밋 푸시" />
+    <MESSAGE value="얕은 복사 깊은 복사 Class객체" />
+    <option name="LAST_COMMIT_MESSAGE" value="얕은 복사 깊은 복사 Class객체" />
   </component>
 </project>
