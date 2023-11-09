@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="String객체의 비교">
-      <change afterPath="$PROJECT_DIR$/src/ch09/SrtingEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/StringBufferEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/StringEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/StringEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/StringEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/StringEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/StringEx7.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="String 관련 예제 공부">
+      <change afterPath="$PROJECT_DIR$/src/ch09/MathEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/MathEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/MathEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/ObjectsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/RandomEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/RandomEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/WrapperEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/WrapperEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/WrapperEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/MyVectorProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/EqualsEx1" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/EqualsEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/EqualsEx2" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/EqualsEx2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
         <option value="Class" />
       </list>
     </option>
@@ -127,7 +129,7 @@
       <workItem from="1699257218801" duration="1328000" />
       <workItem from="1699334957161" duration="2908000" />
       <workItem from="1699340863091" duration="9829000" />
-      <workItem from="1699494254082" duration="4697000" />
+      <workItem from="1699494254082" duration="17084000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -417,7 +419,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699503869828</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="String 관련 예제 공부">
+      <option name="closed" value="true" />
+      <created>1699506183520</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1699506183520</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +445,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="변경사항 저장" />
     <MESSAGE value="6-23까지함. 내일 가능하면 연습문제 코드작성하면 좋을 것 같다." />
     <MESSAGE value="저장!" />
     <MESSAGE value="10.27일자 오전 공부" />
@@ -460,6 +469,7 @@
     <MESSAGE value="변경사항 커밋 푸시" />
     <MESSAGE value="얕은 복사 깊은 복사 Class객체" />
     <MESSAGE value="String객체의 비교" />
-    <option name="LAST_COMMIT_MESSAGE" value="String객체의 비교" />
+    <MESSAGE value="String 관련 예제 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="String 관련 예제 공부" />
   </component>
 </project>
