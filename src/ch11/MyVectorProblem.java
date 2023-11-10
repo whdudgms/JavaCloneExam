@@ -1,51 +1,8 @@
 package ch11;
 
+import org.junit.Test;
+
 public class MyVectorProblem {
-    public static void main(String[] args) {
-
-        // 기본 MyVector생성
-        MyVector mv = new MyVector();
-        System.out.println(mv.objArr.length); // 16
-        System.out.println(mv.capacity); // 16
-        System.out.println(mv.size); // 0
-
-        mv.add("Str1"); // add 메서드 사용
-        mv.add("Str2");
-        mv.add("Str3");
-        mv.add("Str4");
-
-        System.out.println(mv.toString()); //Str1 Str2 Str3 Str4
-
-        System.out.println(mv.size()); // 4
-        System.out.println(mv.capacity()); // 16
-        System.out.println(mv.isEmpty()); // false
-
-
-
-        System.out.println(mv.get(0)); // Str1
-        System.out.println(mv.get(1)); // Str2
-        System.out.println(mv.get(2)); // Str3
-        System.out.println(mv.get(3)); // Str4
-
-        System.out.println(mv.indexOf("Str1")); // 0
-        System.out.println(mv.indexOf("Str2")); // 1
-        System.out.println(mv.indexOf("Str3")); // 2
-        System.out.println(mv.indexOf("Str4")); // 3
-
-        mv.remove("Str1");
-        System.out.println(mv);
-
-
-        for(int i = 0; i < 100;i++){
-            mv.add("Str Over Over"+i);
-        }
-
-        System.out.println(mv.objArr.length); // 16
-        System.out.println(mv.capacity); // 16
-        System.out.println(mv.size); // 0
-        System.out.println(mv);
-
-    }
 }
 
 class MyVector{
@@ -92,7 +49,6 @@ class MyVector{
 
 
     void add(Object obj){
-
         // 용량관련 문제 해결
         if(size >= objArr.length){
             setCapacity(this.capacity*2);
@@ -132,10 +88,11 @@ class MyVector{
     // 없는 경우 -1 // 범위 초과하는 경우 에러 발생할텐데 나중에 고민 // 정상적인 경우
     int indexOf(Object obj){
         int flag = -1; // -1 없는 경우
-        for(int i = 0; i < objArr.length; i++){
-            if(objArr[i] == obj)
+        for(int i = 0; i < size; i++){
+            if(objArr[i].equals( obj))
                 flag = i;
         }
+        System.out.println(flag);
         return flag;
     }
 
