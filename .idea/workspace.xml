@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="공부내용">
-      <change afterPath="$PROJECT_DIR$/src/ch11/DataStructure/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/DataStructure/ArrayList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/MyVectorTest.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="Array ArrayList">
+      <change afterPath="$PROJECT_DIR$/src/ch09/RandomEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/RegularEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/RegularEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/RegularEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/ScannerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/ScannerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/DataStructure/ImplArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/DataStructure/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch11/MyVectorProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch11/MyVectorProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,35 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.RandomEx2" />
-      <module name="CloneAndExam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyVectorTest.MyaddTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CloneAndExam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ch11" />
-      <option name="MAIN_CLASS_NAME" value="ch11.MyVectorTest" />
-      <option name="METHOD_NAME" value="MyaddTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyVectorTest.MyaddTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CloneAndExam" />
       <extension name="coverage">
@@ -157,38 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyVectorTest.addAndRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CloneAndExam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ch11" />
-      <option name="MAIN_CLASS_NAME" value="ch11.MyVectorTest" />
-      <option name="METHOD_NAME" value="addAndRemove" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyVectorTest.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CloneAndExam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ch11" />
-      <option name="MAIN_CLASS_NAME" value="ch11.MyVectorTest" />
-      <option name="METHOD_NAME" value="addTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyVectorTest.sizeCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CloneAndExam" />
       <extension name="coverage">
@@ -205,31 +148,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyVectorTest.sizeCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CloneAndExam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ch11" />
-      <option name="MAIN_CLASS_NAME" value="ch11.MyVectorTest" />
-      <option name="METHOD_NAME" value="sizeCheck" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.MyVectorTest.sizeCheck" />
-        <item itemvalue="JUnit.MyVectorTest.addAndRemove" />
-        <item itemvalue="JUnit.MyVectorTest.addTest" />
-        <item itemvalue="JUnit.MyVectorTest.MyaddTest" />
-        <item itemvalue="Application.RandomEx2" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -255,7 +173,8 @@
       <workItem from="1699494254082" duration="22712000" />
       <workItem from="1699525976138" duration="522000" />
       <workItem from="1699541111681" duration="1945000" />
-      <workItem from="1699580706354" duration="4693000" />
+      <workItem from="1699580706354" duration="7847000" />
+      <workItem from="1699599504102" duration="2439000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -561,7 +480,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699521050494</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Array ArrayList">
+      <option name="closed" value="true" />
+      <created>1699590102070</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1699590102070</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,7 +506,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="저장!" />
     <MESSAGE value="10.27일자 오전 공부" />
     <MESSAGE value="10.31일자 오전 공부" />
     <MESSAGE value="10.31일자 점심먹고 공부" />
@@ -604,7 +530,8 @@
     <MESSAGE value="String객체의 비교" />
     <MESSAGE value="String 관련 예제 공부" />
     <MESSAGE value="공부내용" />
-    <option name="LAST_COMMIT_MESSAGE" value="공부내용" />
+    <MESSAGE value="Array ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array ArrayList" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
