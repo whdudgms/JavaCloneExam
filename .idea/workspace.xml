@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="Array ArrayList">
-      <change afterPath="$PROJECT_DIR$/src/ch09/RandomEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/RegularEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/RegularEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/RegularEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/ScannerEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/ScannerEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/DataStructure/ImplArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/DataStructure/Main.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="정규표현식 공부내용">
+      <change afterPath="$PROJECT_DIR$/src/ch09/BigDecimalEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/BigIntegerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/StringTokenizerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/StringTokenizerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/StringTokenizerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/StringTokenizerEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/StringTokenizerEx5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +173,7 @@
       <workItem from="1699525976138" duration="522000" />
       <workItem from="1699541111681" duration="1945000" />
       <workItem from="1699580706354" duration="7847000" />
-      <workItem from="1699599504102" duration="2439000" />
+      <workItem from="1699599504102" duration="6109000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -488,7 +487,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699590102070</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="정규표현식 공부내용">
+      <option name="closed" value="true" />
+      <created>1699602388441</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1699602388441</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="10.27일자 오전 공부" />
     <MESSAGE value="10.31일자 오전 공부" />
     <MESSAGE value="10.31일자 점심먹고 공부" />
     <MESSAGE value="10.31일자 저녁 전 커밋" />
@@ -531,7 +537,8 @@
     <MESSAGE value="String 관련 예제 공부" />
     <MESSAGE value="공부내용" />
     <MESSAGE value="Array ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array ArrayList" />
+    <MESSAGE value="정규표현식 공부내용" />
+    <option name="LAST_COMMIT_MESSAGE" value="정규표현식 공부내용" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
