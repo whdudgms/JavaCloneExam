@@ -1,11 +1,9 @@
 package ch11;
 
-import org.junit.Test;
-
 public class MyVectorProblem {
 }
 
-class MyVector{
+class MyVector1 {
     Object[] objArr;
     int capacity;
     int size;
@@ -38,10 +36,10 @@ class MyVector{
         return objArr[index];
     }
 
-    MyVector(){
+    MyVector1(){
         this(16);
     }
-    MyVector(int capacity){
+    MyVector1(int capacity){
         this.capacity = capacity;
         objArr = new Object[capacity];
         size = 0;

@@ -20,7 +20,7 @@ public class MyVectorTest {
     //추가하는 경우
     @Test
     public void addTest(){
-       //MyVector mv = new MyVector();
+       //MyVector1 mv = new MyVector1();
         Vector mv = new Vector();
 
         for(int i = 0; i < 100_0000; i++) {
@@ -35,7 +35,7 @@ public class MyVectorTest {
     //추가했다가 삭제하는 경우
     @Test
     public void addAndRemove(){
-        //MyVector mv = new MyVector();
+        //MyVector1 mv = new MyVector1();
         Vector mv = new Vector();
 
         for(int i = 0; i < 50000; i++) {
@@ -53,7 +53,7 @@ public class MyVectorTest {
         //값을 늘려서 size 전체길이랑 같거나 더 크면 길이를 2배로 증가.. 몇번 전체 길이만큼 채우는지에 따라서  16 * 2^n이라고 보면된다. 여기서 n은 전체 길이를 채우는 횟수
     @Test
     public void sizeCheck(){
-        //MyVector mv = new MyVector();
+        //MyVector1 mv = new MyVector1();
         Vector mv = new Vector();
 
         for (int j = 0; j < 2222 ; j++) { // Vector은 증가시 마다 용량이 큰 배열로 변환하나보당
