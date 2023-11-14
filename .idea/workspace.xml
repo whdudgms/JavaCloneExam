@@ -4,17 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="10장 모두 커밋">
-      <change afterPath="$PROJECT_DIR$/src/ch11/ArrayListEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/ArrayListEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/ArrayListLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/ArrayListLinkedListTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/MyVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/StackQueueEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/VectorEx1.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="11장 컬랙션 클래스 학습">
+      <change afterPath="$PROJECT_DIR$/src/ch11/ArraysEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/ExpValidCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/IteratorEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/IteratorEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/ListIteratorEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/MyVector2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/MyVector2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/PriorityQueueEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/QueueEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/StackEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch11/MyVectorProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch11/MyVectorProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch11/MyVectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch11/MyVectorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch11/StackQueueEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch11/StackQueueEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +119,10 @@
       <workItem from="1699609971641" duration="54000" />
       <workItem from="1699613622630" duration="12080000" />
       <workItem from="1699836538697" duration="13165000" />
+      <workItem from="1699865193139" duration="2112000" />
+      <workItem from="1699869485365" duration="757000" />
+      <workItem from="1699924079111" duration="616000" />
+      <workItem from="1699934558219" duration="6780000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -469,7 +476,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699840455455</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="11장 컬랙션 클래스 학습">
+      <option name="closed" value="true" />
+      <created>1699865212056</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1699865212056</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="11.01일자 아침,점심 복습커밋" />
     <MESSAGE value="오전 완전 다 함" />
     <MESSAGE value="오후 공부 일부 일단 커밋 푸시" />
     <MESSAGE value="인터페이스와 다형성, default,static 메서드 관련 공부 내용" />
@@ -512,7 +526,8 @@
     <MESSAGE value="오늘 클론코딩하면서 공부한 것" />
     <MESSAGE value="Date클래스 정규표현식" />
     <MESSAGE value="10장 모두 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="10장 모두 커밋" />
+    <MESSAGE value="11장 컬랙션 클래스 학습" />
+    <option name="LAST_COMMIT_MESSAGE" value="11장 컬랙션 클래스 학습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

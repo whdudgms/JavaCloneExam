@@ -30,6 +30,5 @@ public class StackQueueEx {
             System.out.println(queue.poll());
         }
 
-
     }
 }
