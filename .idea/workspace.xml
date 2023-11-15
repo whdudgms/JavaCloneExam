@@ -4,16 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="11장 컬랙션 클래스들 학습">
-      <change afterPath="$PROJECT_DIR$/src/ch11/HashMapEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/HashMapEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/PropertiesEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/PropertiesEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/PropertiesEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/PropertiesEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/TreeMapEx1.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="11장 컬랙션 클래스들 학습 끝">
+      <change afterPath="$PROJECT_DIR$/src/ch12/AnnotationEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/AnnotationEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/AnnotationEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/AnnotationEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/AnnotationEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/EnumEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/EnumEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/EnumEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/EnumEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch11/HashSetEx3" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch11/HashSetEx3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +124,8 @@
       <workItem from="1699951880566" duration="2000" />
       <workItem from="1699967239609" duration="4088000" />
       <workItem from="1700011485595" duration="4051000" />
-      <workItem from="1700019443618" duration="319000" />
+      <workItem from="1700019443618" duration="888000" />
+      <workItem from="1700022555598" duration="5519000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -501,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699951841984</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="11장 컬랙션 클래스들 학습 끝">
+      <option name="closed" value="true" />
+      <created>1700020327722</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1700020327722</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="오후 공부 일부 일단 커밋 푸시" />
     <MESSAGE value="인터페이스와 다형성, default,static 메서드 관련 공부 내용" />
     <MESSAGE value="간단하게 공부한 것" />
     <MESSAGE value="Inner 클래스" />
@@ -544,7 +553,8 @@
     <MESSAGE value="10장 모두 커밋" />
     <MESSAGE value="11장 컬랙션 클래스 학습" />
     <MESSAGE value="11장 컬랙션 클래스들 학습" />
-    <option name="LAST_COMMIT_MESSAGE" value="11장 컬랙션 클래스들 학습" />
+    <MESSAGE value="11장 컬랙션 클래스들 학습 끝" />
+    <option name="LAST_COMMIT_MESSAGE" value="11장 컬랙션 클래스들 학습 끝" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
