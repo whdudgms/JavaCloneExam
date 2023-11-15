@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="11장 컬랙션 클래스들 학습">
-      <change afterPath="$PROJECT_DIR$/src/ch11/AsciiPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/Bingo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/ComparatorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/HashMapEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/HashMapEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/HashSetEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/HashSetEx3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/HashSetEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/HashSetEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/HashSetLotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/TreeSetEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/TreeSetEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/TreeSetLotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/HashMapEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/HashMapEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/PropertiesEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/PropertiesEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/PropertiesEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/PropertiesEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/TreeMapEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch11/HashSetEx3" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch11/HashSetEx3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +119,11 @@
       <workItem from="1699869485365" duration="757000" />
       <workItem from="1699924079111" duration="616000" />
       <workItem from="1699934558219" duration="7054000" />
-      <workItem from="1699946168262" duration="5379000" />
+      <workItem from="1699946168262" duration="5661000" />
+      <workItem from="1699951880566" duration="2000" />
+      <workItem from="1699967239609" duration="4088000" />
+      <workItem from="1700011485595" duration="4051000" />
+      <workItem from="1700019443618" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -494,7 +493,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699941810412</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="11장 컬랙션 클래스들 학습">
+      <option name="closed" value="true" />
+      <created>1699951841984</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1699951841984</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,6 +557,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ch11/HashSetEx3.java</url>
+          <line>9</line>
+          <properties class="ch11.HashSetEx3" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
