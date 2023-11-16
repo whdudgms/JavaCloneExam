@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="11장 컬랙션 클래스들 학습 끝">
-      <change afterPath="$PROJECT_DIR$/src/ch12/AnnotationEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/AnnotationEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/AnnotationEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/AnnotationEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/AnnotationEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/EnumEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/EnumEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/EnumEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/EnumEx4.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="12장 일부 애너테이션과 열거형에 대해서 학습">
+      <change afterPath="$PROJECT_DIR$/src/ch12/FruitBoxEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/FruitBoxEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/FruitBoxEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/FruitBoxEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +120,8 @@
       <workItem from="1699967239609" duration="4088000" />
       <workItem from="1700011485595" duration="4051000" />
       <workItem from="1700019443618" duration="888000" />
-      <workItem from="1700022555598" duration="5519000" />
+      <workItem from="1700022555598" duration="7332000" />
+      <workItem from="1700106317312" duration="3074000" />
     </task>
     <task id="LOCAL-00001" summary="ㄴㅇㄹ">
       <option name="closed" value="true" />
@@ -511,7 +507,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700020327722</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="12장 일부 애너테이션과 열거형에 대해서 학습">
+      <option name="closed" value="true" />
+      <created>1700034546930</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1700034546930</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="인터페이스와 다형성, default,static 메서드 관련 공부 내용" />
     <MESSAGE value="간단하게 공부한 것" />
     <MESSAGE value="Inner 클래스" />
     <MESSAGE value="외부 클래스에서 내부 클래스로 접근" />
@@ -554,7 +557,8 @@
     <MESSAGE value="11장 컬랙션 클래스 학습" />
     <MESSAGE value="11장 컬랙션 클래스들 학습" />
     <MESSAGE value="11장 컬랙션 클래스들 학습 끝" />
-    <option name="LAST_COMMIT_MESSAGE" value="11장 컬랙션 클래스들 학습 끝" />
+    <MESSAGE value="12장 일부 애너테이션과 열거형에 대해서 학습" />
+    <option name="LAST_COMMIT_MESSAGE" value="12장 일부 애너테이션과 열거형에 대해서 학습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
