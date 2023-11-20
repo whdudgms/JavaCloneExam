@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="13장 학습">
-      <change afterPath="$PROJECT_DIR$/src/ch13/ThreadEx10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/ThreadEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/ThreadEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/ThreadEx8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/ThreadEx9.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="13장 학습내용 저장.">
+      <change afterPath="$PROJECT_DIR$/src/ch14/LambdaEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,15 +123,7 @@
       <workItem from="1700112902007" duration="861000" />
       <workItem from="1700279825850" duration="4167000" />
       <workItem from="1700353422484" duration="25000" />
-      <workItem from="1700445649761" duration="3530000" />
-    </task>
-    <task id="LOCAL-00003" summary="TvTest4 객체 배열관련 실행파일 작성">
-      <option name="closed" value="true" />
-      <created>1698115686245</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1698115686245</updated>
+      <workItem from="1700445649761" duration="4798000" />
     </task>
     <task id="LOCAL-00004" summary="TvTest4 객체 배열관련 실행파일 작성">
       <option name="closed" value="true" />
@@ -521,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700445678564</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="13장 학습내용 저장.">
+      <option name="closed" value="true" />
+      <created>1700452300144</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1700452300144</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +535,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="외부 클래스에서 내부 클래스로 접근" />
     <MESSAGE value="내부 클래스 + 익명 클래스" />
     <MESSAGE value="예외처리에 대한 공부" />
     <MESSAGE value="고의로 예외 발생시키기" />
@@ -564,7 +559,8 @@
     <MESSAGE value="12장 일부 애너테이션과 열거형에 대해서 학습" />
     <MESSAGE value="12장 제네릭스 학습" />
     <MESSAGE value="13장 학습" />
-    <option name="LAST_COMMIT_MESSAGE" value="13장 학습" />
+    <MESSAGE value="13장 학습내용 저장." />
+    <option name="LAST_COMMIT_MESSAGE" value="13장 학습내용 저장." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
