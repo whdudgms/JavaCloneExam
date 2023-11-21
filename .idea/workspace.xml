@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="14장 람다식 학습내용 저장.">
-      <change afterPath="$PROJECT_DIR$/src/ch14/LambdaEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/LambdaEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/LambdaEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/LambdaEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/LambdaEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/LambdaEx7.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="금일 첫 커밋">
+      <change afterPath="$PROJECT_DIR$/src/ch13/ThreadEx11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/IOEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,15 +125,9 @@
       <workItem from="1700279825850" duration="4167000" />
       <workItem from="1700353422484" duration="25000" />
       <workItem from="1700445649761" duration="4798000" />
-      <workItem from="1700472155649" duration="3179000" />
-    </task>
-    <task id="LOCAL-00005" summary="static 참조변수 매개변수에 따른 인자의 자동형변환">
-      <option name="closed" value="true" />
-      <created>1698116922606</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1698116922606</updated>
+      <workItem from="1700472155649" duration="3471000" />
+      <workItem from="1700479577852" duration="1479000" />
+      <workItem from="1700553590792" duration="761000" />
     </task>
     <task id="LOCAL-00006" summary="인자로 전달된 값">
       <option name="closed" value="true" />
@@ -523,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700472208689</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="14장 람다식 학습내용 저장.">
+      <option name="closed" value="true" />
+      <created>1700475619258</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1700475619258</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="예외처리에 대한 공부" />
     <MESSAGE value="고의로 예외 발생시키기" />
     <MESSAGE value="exception예외 대한 설명" />
     <MESSAGE value="RuntimeException예외들에 대한 설명" />
@@ -566,7 +563,8 @@
     <MESSAGE value="13장 학습" />
     <MESSAGE value="13장 학습내용 저장." />
     <MESSAGE value="14장 람다식 학습내용 저장." />
-    <option name="LAST_COMMIT_MESSAGE" value="14장 람다식 학습내용 저장." />
+    <MESSAGE value="금일 첫 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="금일 첫 커밋" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
