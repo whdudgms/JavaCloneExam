@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="금일 첫 커밋">
-      <change afterPath="$PROJECT_DIR$/src/ch13/ThreadEx12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/ThreadEx13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/ThreadEx14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/ThreadEx15.java" afterDir="false" />
+    <list default="true" id="2e9c7c6d-a931-468c-ad62-333a32862380" name="Changes" comment="수정사항 저장">
+      <change afterPath="$PROJECT_DIR$/src/ch14/CollectorEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/OptionalEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,15 +129,7 @@
       <workItem from="1700479577852" duration="1479000" />
       <workItem from="1700553590792" duration="761000" />
       <workItem from="1700554358940" duration="1374000" />
-      <workItem from="1700711304833" duration="2074000" />
-    </task>
-    <task id="LOCAL-00007" summary="10/24,10/25 공부한 것">
-      <option name="closed" value="true" />
-      <created>1698221656726</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1698221656726</updated>
+      <workItem from="1700711304833" duration="4374000" />
     </task>
     <task id="LOCAL-00008" summary="변경사항 저장">
       <option name="closed" value="true" />
@@ -525,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700554365368</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="수정사항 저장">
+      <option name="closed" value="true" />
+      <created>1700718817778</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1700718817779</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +541,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="고의로 예외 발생시키기" />
     <MESSAGE value="exception예외 대한 설명" />
     <MESSAGE value="RuntimeException예외들에 대한 설명" />
     <MESSAGE value="Exception에 대해서 공부" />
@@ -568,7 +565,8 @@
     <MESSAGE value="13장 학습내용 저장." />
     <MESSAGE value="14장 람다식 학습내용 저장." />
     <MESSAGE value="금일 첫 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="금일 첫 커밋" />
+    <MESSAGE value="수정사항 저장" />
+    <option name="LAST_COMMIT_MESSAGE" value="수정사항 저장" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
